@@ -7,7 +7,7 @@
   <br /> <br />
 </figure>
 
-## Step 01 环境准备 Environment Preparation
+## Step 001 环境准备 Environment Preparation
 * 需要安装Matlab
 * Need to install Matlab
 ## Step 02 下载代码 Download the code
